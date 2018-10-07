@@ -1,4 +1,4 @@
-## Python Buycraft.net / Tebex.io  API Wrapper
+## Python Buycraft.net / Tebex.io  API Client
 ## Written By Reecepbcups
 ## October 7th, 2018
 
